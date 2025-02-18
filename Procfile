@@ -1,2 +1,2 @@
-worker: python cn.py
+echo "worker: python proxv.py"
 
