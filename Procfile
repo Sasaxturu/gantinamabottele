@@ -1,2 +1,2 @@
-worker: python proxv.py
+worker: python3 proxv.py
 
