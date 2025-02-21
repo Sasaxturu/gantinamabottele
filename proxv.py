@@ -4,7 +4,7 @@ import logging
 import time
 import telebot
 
-API_TOKEN = "7577499310:AAEsRC8RXOCxGhgBcTR98YHnC1JJ93kj9EA"
+API_TOKEN = "8096803805:AAHCvaDwbEYKzeA3AjOh_a6L6X4LmgZPkOQ"
 USER_ID = "-1002168419067"
 
 logging.basicConfig(
